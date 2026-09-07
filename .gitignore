@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+logs/*.jsonl
+.DS_Store
+*.log
+autogen_debug.log
+mock_llm_debug.log
+composer_debug.log
